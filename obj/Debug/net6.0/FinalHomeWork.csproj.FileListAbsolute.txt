@@ -1,0 +1,15 @@
+C:\FinalHomeWork\obj\Debug\net6.0\FinalHomeWork.csproj.AssemblyReference.cache
+C:\FinalHomeWork\obj\Debug\net6.0\FinalHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\FinalHomeWork\obj\Debug\net6.0\FinalHomeWork.AssemblyInfoInputs.cache
+C:\FinalHomeWork\obj\Debug\net6.0\FinalHomeWork.AssemblyInfo.cs
+C:\FinalHomeWork\obj\Debug\net6.0\FinalHomeWork.csproj.CoreCompileInputs.cache
+C:\FinalHomeWork\bin\Debug\net6.0\FinalHomeWork.exe
+C:\FinalHomeWork\bin\Debug\net6.0\FinalHomeWork.deps.json
+C:\FinalHomeWork\bin\Debug\net6.0\FinalHomeWork.runtimeconfig.json
+C:\FinalHomeWork\bin\Debug\net6.0\FinalHomeWork.dll
+C:\FinalHomeWork\bin\Debug\net6.0\FinalHomeWork.pdb
+C:\FinalHomeWork\obj\Debug\net6.0\FinalHomeWork.dll
+C:\FinalHomeWork\obj\Debug\net6.0\refint\FinalHomeWork.dll
+C:\FinalHomeWork\obj\Debug\net6.0\FinalHomeWork.pdb
+C:\FinalHomeWork\obj\Debug\net6.0\FinalHomeWork.genruntimeconfig.cache
+C:\FinalHomeWork\obj\Debug\net6.0\ref\FinalHomeWork.dll
