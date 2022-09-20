@@ -13,7 +13,7 @@ string[] NoMoreThreeSymbols(string[] massiv, string[] massivRedact)
     int y = 0;
     while (i < massiv.Length)
     {
-        if (massiv[i].Length <= 3)
+        if (massiv[i].Length < 4)
         {
             massivRedact[y] = massiv[i];
             y++;
@@ -28,7 +28,7 @@ int MakeSizeForArray(string[] massiv)
     int z = 0;
     while (i < massiv.Length)
     {
-        if (massiv[i].Length <= 3)
+        if (massiv[i].Length < 4)
         {
             z++;
         }
